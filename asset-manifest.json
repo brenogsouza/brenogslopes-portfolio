@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brenogslopes-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/brenogslopes-portfolio/static/js/main.a71d28a1.chunk.js",
+    "main.js.map": "/brenogslopes-portfolio/static/js/main.a71d28a1.chunk.js.map",
+    "runtime-main.js": "/brenogslopes-portfolio/static/js/runtime-main.4fb8570d.js",
+    "runtime-main.js.map": "/brenogslopes-portfolio/static/js/runtime-main.4fb8570d.js.map",
+    "static/js/2.af8261c4.chunk.js": "/brenogslopes-portfolio/static/js/2.af8261c4.chunk.js",
+    "static/js/2.af8261c4.chunk.js.map": "/brenogslopes-portfolio/static/js/2.af8261c4.chunk.js.map",
+    "index.html": "/brenogslopes-portfolio/index.html",
+    "precache-manifest.55050fe19c7d53000a1e459f15d4e8f9.js": "/brenogslopes-portfolio/precache-manifest.55050fe19c7d53000a1e459f15d4e8f9.js",
+    "service-worker.js": "/brenogslopes-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/brenogslopes-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.af8261c4.chunk.js.LICENSE.txt": "/brenogslopes-portfolio/static/js/2.af8261c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/brenogslopes-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb8570d.js",
+    "static/js/2.af8261c4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a71d28a1.chunk.js"
+  ]
+}
