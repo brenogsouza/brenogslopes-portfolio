@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brenogslopes-portfolio/precache-manifest.b0cd825995beba7911bedb0e3ed4d58a.js"
+  "/brenogslopes-portfolio/precache-manifest.a302106893a2fd48728ce992286ea817.js"
 );
 
 self.addEventListener('message', (event) => {
