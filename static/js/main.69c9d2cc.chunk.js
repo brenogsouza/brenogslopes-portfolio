@@ -1,0 +1,2 @@
+(this["webpackJsonpbrenogslopes-portfolio"]=this["webpackJsonpbrenogslopes-portfolio"]||[]).push([[0],{3:function(e,n,o){e.exports=o(8)},8:function(e,n,o){"use strict";o.r(n);var t=o(0),r=o.n(t),l=o(2);var a=function(){return r.a.createElement("h1",null,"Breno Guilherme de Souza Lopes")};o.n(l).a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(a,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.69c9d2cc.chunk.js.map
