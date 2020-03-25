@@ -7,13 +7,8 @@
             "type": "image/x-icon"
         },
         {
-            "src": "my.jpg",
-            "type": "image/jpg",
-            "sizes": "192x192"
-        },
-        {
-            "src": "my.jpg",
-            "type": "image/jpg",
+            "src": "my512.png",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ],
